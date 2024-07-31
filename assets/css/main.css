@@ -5232,7 +5232,7 @@ body .ui-tooltip {
   line-height: 90px;
 }
 .banner-3__content h1 span {
-  color: var(--rr-theme-primary);
+  color: #0dcaf0;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .banner-3__content h1 {
