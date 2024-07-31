@@ -145,6 +145,7 @@
 /*----------------------------------------*/
 /*  1.1 Theme Default
 /*----------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Zain:wght@200;300;400;700;800;900&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap");
 .rr__faq-2 .accordion-button::after, .rr__faq .accordion-button::after {
   border-radius: 500px;
@@ -402,8 +403,8 @@ ul {
 }
 
 p {
-  font-size: var(--rr-fs-p);
-  font-family: cursive;
+  font-size: 20px;
+  font-family: "Zain", sans-serif;
   font-weight: var(--rr-fw-normal);
   color: var(--rr-text-body);
   margin-bottom: 30px;
