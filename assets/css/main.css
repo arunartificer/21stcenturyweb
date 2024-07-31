@@ -5062,7 +5062,7 @@ body .ui-tooltip {
   content: "";
   width: 1522.97px;
   height: 1356.07px;
-  background: var(--rr-theme-primary);
+  background: #1d9ed1;
   bottom: -1047px;
   left: -99px;
   z-index: -1;
@@ -5206,7 +5206,7 @@ body .ui-tooltip {
   height: 1356.07px;
   display: block;
   border-radius: 500px;
-  background: var(--rr-theme-primary);
+  background: #1d9ed1;
   opacity: 0.2;
   -webkit-filter: blur(217px);
           filter: blur(217px);
