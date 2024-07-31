@@ -1083,7 +1083,7 @@ a.rr-a-btn:hover {
   overflow: hidden;
   z-index: 5;
   padding: 20px 32px;
-  background-color: var(--rr-theme-primary);
+  background-color: #0dcaf0;
 }
 .rr-btn.rr-btn__primary {
   background-color: #071C3C;
@@ -4836,11 +4836,11 @@ body .ui-tooltip {
 /*  4 header-common
 /*----------------------------------------*/
 .header-4__background {
-  background-color: var(--rr-theme-primary);
+  background-color: #0dcaf0;
 }
 .header-4-top {
   margin-bottom: -39px;
-  background: var(--rr-theme-primary);
+  background: #0dcaf0;
   padding-bottom: 60px;
   padding-top: 23px;
 }
